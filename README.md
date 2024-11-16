@@ -2,10 +2,7 @@
 Real-time sign language detection system using computer vision and machine learning. Translates hand signs to text and audio output with OpenCV and MediaPipe.
 
 
-<h1 align="center">
-  Handy - Sign Language Detection
-  <br>
-</h1>
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
